@@ -4,7 +4,7 @@ This is a quiz library for adding quizs to a tkinter applications.
 
 ## Why this exist?
 
-I'm currently working on a learning management system and I wanted a way to abstract away the quiz specific logic, so test building will boil down to passing values to prebuilds.
+I'm currently working on a learning management system and I wanted a way to abstract away the quiz specific logic, so building will boil down to passing values to classses.
 
 ## Quick Start
 
@@ -195,7 +195,7 @@ window.mainloop()
 
 ### Customizer classes
 
-Customizing widgets is done using customtkinter for more info on that check out the [docs][https://www.customtkinter.tomschimansky.com], however since widgets are made in the question classes I've written dataclasses to build objects that'll hold the customizations, which I can then pass to their respective classes.
+Customizing widgets is done using customtkinter for more info on that check out the [docs](https://www.customtkinter.tomschimansky.com/), however since widgets are made in the question classes I've written dataclasses to build objects that'll hold the customizations, which I can then pass to their respective classes.
 
 **Customizing the Multiple Choice question**
 
