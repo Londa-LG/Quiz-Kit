@@ -4,7 +4,7 @@ This is a quiz library for adding quizs to a tkinter applications.
 
 ## Why this exist?
 
-I'm currently working on a learning management system and I wanted a way to abstract away the quiz specific logic, so building will boil down to passing values to classses.
+I'm currently working on a learning management system and I wanted a way to abstract away the quiz specific logic, so building will boil down to using prebuilt classes.
 
 ## Quick Start
 
