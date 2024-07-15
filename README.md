@@ -12,7 +12,7 @@ I'm currently working on a learning management system and I wanted a way to abst
 To quickly get a quick demo do the following: clone this repo.
 
 ```bash
-git clone this repo
+git clone https://github.com/Londa-LG/Quiz-Kit.git
 ```
 Create a virtual environment and activate it
 
@@ -507,7 +507,7 @@ window.mainloop()
 ### Clone the repo
 
 ```bash
-git clone (repo link)
+git clone https://github.com/Londa-LG/Quiz-Kit.git
 cd Quiz-Kit
 ```
 
